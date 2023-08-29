@@ -48,8 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I am an innovative technology professional with over 27 years of experience spanning diverse industries, including banking, finance, automotive, aerospace, and more. My expertise lies in Unix, Linux, DevOps, SRE, and Cloud solutions, enabling me to deliver exceptional results in critical environments. I have a proven track record of optimizing performance, driving automation, and creating robust, high-availability systems. I am recognized for my leadership, collaborative approach, and commitment to continuous learning.
-  I am most skilled in: <mark>Skill1</mark> <mark>Skill2</mark>
+I am a dedicated technology professional with an extensive background spanning more than 27 years, encompassing diverse industries such as banking, finance, automotive, and aerospace. My journey through these sectors has honed my expertise in Unix, Linux, DevOps, SRE, and Cloud solutions. This wealth of experience empowers me to consistently deliver remarkable outcomes in challenging contexts. Over the years, I've cultivated a track record of refining performance, pioneering automation, and architecting resilient, high-availability systems. Beyond technical prowess, I am humbled by the recognition for my leadership, collaborative spirit, and unwavering commitment to perpetual growth and learning. 
+| I am most skilled in: <mark>Skill1</mark> <mark>Skill2</mark>
 
 content:
   - title: Projects # Title for the section
