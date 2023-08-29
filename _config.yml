@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Certifications: <mark>AWS Cloud</mark> <mark>Oracle Cloud</mark> <mark>IBM Cloud</mark> <mark>Cisco CCNA</mark> <mark>Docker</mark> <mark>Linux LPI-C1 and C2</mark> <mark>IBM AIX</mark> <mark>Solaris</mark> <mark>HP-UX</mark> <mark>IT Especialist</mark>
   
-  [Download Resume](William_Resume.pdf){: .btn btn-center }
+                                                                        [Download Resume](William_Resume.pdf){: .btn btn-center }
 # content:
 #   - title: SUMMARY # Title for the section
 #     layout: text # Type of content section (list/text)
