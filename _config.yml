@@ -30,10 +30,10 @@ linkedin_username: wdsnet
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 I am a dedicated technology professional with an extensive background spanning more than 27 years, encompassing diverse industries such as banking, finance, automotive, and aerospace. My journey through these sectors has honed my expertise in Unix, Linux, DevOps, SRE, and Cloud solutions. This wealth of experience empowers me to consistently deliver remarkable outcomes in challenging contexts. Over the years, I've cultivated a track record of refining performance, pioneering automation, and architecting resilient, high-availability systems. Beyond technical prowess, I am humbled by the recognition for my leadership, collaborative spirit, and unwavering commitment to perpetual growth and learning. 
 I am most skilled in: <mark>Skill1</mark> <mark>Skill2</mark>
