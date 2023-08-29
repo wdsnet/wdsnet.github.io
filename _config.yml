@@ -50,9 +50,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a dedicated technology professional with an extensive background spanning more than 27 years, encompassing diverse industries such as banking, finance, automotive, and aerospace. My journey through these sectors has honed my expertise in Unix, Linux, DevOps, SRE, and Cloud solutions. This wealth of experience empowers me to consistently deliver remarkable outcomes in challenging contexts. Over the years, I've cultivated a track record of refining performance, pioneering automation, and architecting resilient, high-availability systems. Beyond technical prowess, I am humbled by the recognition for my leadership, collaborative spirit, and unwavering commitment to perpetual growth and learning. 
   
-  I am most skilled in: <mark>Cloud</mark> <mark>DevOps</mark> <mark>Linux</mark> <mark>Networking</mark> <mark>K8S</mark> <mark>Docker</mark> <mark>Automation</mark> <mark>AIX</mark> <mark>Virtualization</mark>
+  I am most skilled in: <mark>Cloud</mark> <mark>DevOps</mark> <mark>Linux</mark> <mark>Networking</mark> <mark>K8s</mark> <mark>Docker</mark> <mark>Automation</mark> <mark>AIX</mark> <mark>Virtualization</mark>
   <mark>IBM</mark> <mark>OCI</mark> <mark>GCP</mark> <mark>AWS</mark> <mark>Terraform</mark> <mark>Vagrant</mark> <mark>Packer</mark> <mark>Vault</mark> <mark>Jenkins</mark> <mark>Concourse</mark> <mark>Python</mark>
-
+  
+  Certifications: <mark>AWS Cloud</mark> <mark>Oracle Cloud</mark> <mark>IBM Cloud</mark> <mark>Cisco CCNA</mark> <mark>Docker</mark> <mark>Linux LPI-C1 and C2</mark> <mark>IBM AIX</mark> <mark>Solaris</mark> <mark>HP-UX</mark> <mark>IT Especialist</mark>
 # content:
 #   - title: SUMMARY # Title for the section
 #     layout: text # Type of content section (list/text)
