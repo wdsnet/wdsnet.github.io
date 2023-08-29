@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-
+<head>
 {%- include head.html -%}
-
+  <style>
+    .btn-center {
+      display: block;
+      margin: 0 auto;
+      text-align: center;
+    }
+  </style>
+</head>  
 <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
 
   {%- include header.html -%}
