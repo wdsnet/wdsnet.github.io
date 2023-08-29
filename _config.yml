@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: WILLIAM DOS SANTOS
+name: William dos Santos
 title: Senior DevOps Engineer 
 email: wdsnet@gmail.com
 website: https://wdsnet.github.io/
@@ -52,8 +52,8 @@ I am a dedicated technology professional with an extensive background spanning m
 I am most skilled in: <mark>Skill1</mark> <mark>Skill2</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: SUMMARY # Title for the section
+    layout: text # Type of content section (list/text)
     content:
       - layout: top-middle
         title: project1
